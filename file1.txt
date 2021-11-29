@@ -3,4 +3,4 @@ I changed the this file when I practice usingD
 new content
 merge solved
 new content made by mina
->>>>>>> mina
+new content github
