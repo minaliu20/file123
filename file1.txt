@@ -1,3 +1,6 @@
 i am so bored
-I changed the this file when I practice using branch
+I changed the this file when I practice usingD
 new content
+merge solved
+new content made by mina
+>>>>>>> mina
